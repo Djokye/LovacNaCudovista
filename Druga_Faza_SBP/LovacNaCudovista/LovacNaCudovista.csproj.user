@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\BajalicaAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\BajalicaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\BajalicaUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\CudovistaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LegendaAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LegendaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LegendaUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LokacijaAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LokacijaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LokacijaUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LovacAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LovacForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\LovacUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\MagCudForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\MagCudovisteAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\MagCudovisteUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\MagSposAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\MagSposForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\MagSposUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\NeMagCudAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\NeMagCudForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\NeMagCudUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\PoznatiPredstavnikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\PozPredAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\PozPredUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\PredmetAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\PredmetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\PredmetUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\ProtivmeraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\ProtivmeraAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\ProtivmeraUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\SpecSposAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\SpecSposForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\SpecSposUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\SusretForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\SusretAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\SusretUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\UsloviAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\UsloviUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\UslovZaPrimenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\ZastitaAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\ZastitaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\ZastitaUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
