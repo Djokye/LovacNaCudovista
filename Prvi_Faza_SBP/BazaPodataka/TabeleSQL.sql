@@ -1,4 +1,4 @@
--- Tabela Cudoviste
+-- Tabela Cudoviste 
 CREATE TABLE Cudoviste (
     IdCudovista NUMBER PRIMARY KEY,
     NazivCud VARCHAR2(50),
@@ -64,7 +64,7 @@ CREATE TABLE PoznatiPredstavnik (
     IdCud NUMBER REFERENCES Cudoviste(IdCudovista)
 );
 
--- Tabela Lovac
+-- Tabella Lovac
 CREATE TABLE Lovac (
     IdLovca NUMBER PRIMARY KEY,
     ImeLovca VARCHAR2(50)
