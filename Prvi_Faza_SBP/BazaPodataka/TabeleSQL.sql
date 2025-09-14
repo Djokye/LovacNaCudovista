@@ -4,7 +4,7 @@ CREATE TABLE Cudoviste (
     NazivCud VARCHAR2(50),
     PodTipCud VARCHAR2(50),
     VekPomCud NUMBER
-);
+);  
 
 CREATE TABLE MagCudoviste (
     IdCudovista NUMBER PRIMARY KEY REFERENCES Cudoviste(IdCudovista),

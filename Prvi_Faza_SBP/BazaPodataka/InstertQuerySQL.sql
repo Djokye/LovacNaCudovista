@@ -5,7 +5,7 @@ INTO Cudoviste (IdCudovista, NazivCud, PodTipCud, VekPomCud) VALUES (2, 'Vukodla
 INTO Cudoviste (IdCudovista, NazivCud, PodTipCud, VekPomCud) VALUES (3, 'Vampir', 'Natprirodno bice', 600)
 INTO Cudoviste (IdCudovista, NazivCud, PodTipCud, VekPomCud) VALUES (4, 'Vila Raviojla', 'Mitsko bice', 150)
 INTO Cudoviste (IdCudovista, NazivCud, PodTipCud, VekPomCud) VALUES (5, 'Meduza', 'Mitsko bice', 300)
-SELECT * FROM dual;
+SELECT * FROM dual; 
 
 
 INSERT ALL
