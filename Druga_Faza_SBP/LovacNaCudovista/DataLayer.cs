@@ -1,5 +1,5 @@
 ﻿
-namespace LovacNaCudovista
+namespace LovacNaCudovista   
 {
 
     static class DataLayer
